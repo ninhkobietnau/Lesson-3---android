@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson 3</string>
+    <string name="log_in">Đăng nhập</string>
+    <string name="user_name">User name</string>
+    <string name="bt_log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="tv1">You don\'t have account ?</string>
+    <string name="sign_up">Sign up ?</string>
+    <string name="tv_sign_up">Đăng ký</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="tv_log_in">Log in ?</string>
+</resources>
